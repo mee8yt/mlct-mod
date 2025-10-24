@@ -1,7 +1,7 @@
 [
   {
     "range": "0-1000",
-    "type": "warning",
+    "type": "update",
     "message_ru": "сообщение",
     "message_en": "message"
   }
